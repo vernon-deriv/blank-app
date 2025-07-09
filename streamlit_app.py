@@ -1,4 +1,5 @@
 import streamlit as st
+import langfuse
 
 st.title("Langfuse Secrets Debug")
 
